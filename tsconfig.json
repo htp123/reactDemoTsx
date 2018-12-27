@@ -27,5 +27,11 @@
     "webpack",
     "jest",
     "src/setupTests.ts"
+  ],
+  "include": [    
+    "./src/**/*"
+  ],
+  "files": [ 
+    "images.d.ts" 
   ]
 }
